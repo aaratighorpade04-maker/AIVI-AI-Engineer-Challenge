@@ -1,0 +1,24 @@
+AI Engineer Intern
+
+Responsibilities:
+- Develop Python-based AI applications.
+- Work with LLM APIs and structured outputs.
+- Build and test AI pipelines.
+- Handle JSON data and API errors.
+- Perform prompt engineering and model evaluation.
+- Work with machine learning concepts.
+- Implement robust error handling.
+
+Required Skills:
+- Python
+- Generative AI / LLM concepts
+- Prompt Engineering
+- JSON
+- API integration
+- Machine Learning fundamentals
+
+Preferred Skills:
+- Pydantic
+- Cloud platforms
+- Docker
+- Git
