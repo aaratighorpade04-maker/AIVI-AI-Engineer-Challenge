@@ -1,0 +1,23 @@
+Candidate: Aarati Ghorpade
+
+Education:
+B.Tech in Electronics and Telecommunication Engineering.
+
+Technical Skills:
+Python, C, C++, Java basics, AI/ML fundamentals, Data Analysis,
+Power BI, Excel, Arduino, ESP32, Raspberry Pi, IoT, SQL,
+PCB Design and Embedded Systems.
+
+Projects:
+Offline AI Industrial Fault Detection and Recovery System using ESP32,
+sensors and machine-learning concepts.
+
+Internship Experience:
+Worked on data analysis and AI internship tasks involving Python,
+data cleaning, exploratory data analysis, machine learning and
+data visualization.
+
+Additional Experience:
+Worked on an industrial smart kitting system involving RFID,
+Pick-to-Light technology, ESL mapping, Excel analysis and industrial
+automation concepts.
